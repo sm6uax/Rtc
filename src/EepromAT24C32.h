@@ -1,4 +1,5 @@
 #pragma once
+#include <Arduino.h>
 
 //I2C Slave Address  
 const uint8_t AT24C32_ADDRESS = 0x50; // 0b0 1010 A2 A1 A0
